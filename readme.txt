@@ -18,11 +18,17 @@ into your wp-content/plugins directory. Once extracted follow these
 simple steps:
 
 1) Go to the admin page of your WordPress blog and click the plugins link.
+
 2) Click the activate action on the Sorenson 360 Video plugin.
+
 3) Click on the Settings link
+
 4) Under Settings, click the Sorenson 360 link
+
 5) Enter your Sorenson 360 username and password
+
 6) Click the Test Login Info button to verify credentials
+
 7) Click the Update Sorenson 360 Options button
 
 
