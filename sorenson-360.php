@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Sorenson 360 Video Plugin
-Plugin URI: http://sorensonmedia.com
+Plugin URI: http://www.sorensonmedia.com/wordpress-plugins/
 Description: Integration of your Sorenson File library into Wordpress.
 Version: 1.0.2
 Author: Sorenson Media
