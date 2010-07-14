@@ -2,7 +2,7 @@
 Contributors: Sorenson Media
 Tags: video, 360, sorenson
 Requires at least: 2.4
-Tested up to: 2.8
+Tested up to: 3.0
 Stable tag: trunk
 
 The Sorenson 360 for Wordpress Plugin allows you to post Flash or MP4 videos directly into the Wordpress publishing platform
